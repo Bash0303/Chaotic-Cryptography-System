@@ -271,7 +271,7 @@ def main():
     encryption_key = st.sidebar.text_input(
         "Enter your secret key",
         type="password",
-        value="my_secret_key_2024",
+        value="my_secret_key_2026",
         help="Must use the SAME key for encryption and decryption"
     )
     
